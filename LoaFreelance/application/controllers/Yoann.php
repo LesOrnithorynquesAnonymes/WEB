@@ -26,5 +26,4 @@ class Yoann extends CI_Controller {
   public function custome($didier) {
     echo $didier;
   }
-
 }
